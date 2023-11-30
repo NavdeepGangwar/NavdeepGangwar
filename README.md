@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @NavdeepGangwar
 - 👀 I’m interested in Programming And Trading.
 - 🌱 I’m currently learning Coding.
-- 💞️ I’m looking to collaborate on @SuyogMagar
 - 📫 How to reach me ngangwar101@gmail.com
 
 <!---
